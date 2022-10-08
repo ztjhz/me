@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9172],{6181:e=>{e.exports=JSON.parse('{"label":"computervision","permalink":"/blog/tags/computervision","allTagsPath":"/blog/tags","count":1}')}}]);
