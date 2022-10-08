@@ -50,6 +50,7 @@ const config = {
     ({
       navbar: {
         title: 'Jing Hua',
+        hideOnScroll: true,
         items: [
           { to: '/about', label: 'About', position: 'left' },
           {

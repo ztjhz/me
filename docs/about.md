@@ -60,7 +60,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 - [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
 - [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
-- [work/rec-solar](https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A mobile application for optimising solar equipment maintenance
+- [work/rec-solar](/docs/work/rec-solar): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A mobile application for optimising solar equipment maintenance
 - [ztjhz/memories-web-app](https://github.com/ztjhz/memories-web-app): Allowing users to store their precious memories
 
 **Front End Web**
@@ -81,6 +81,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Other**
 
+- [ztjhz/me](https://github.com/ztjhz/me): My personal website
 - [ztjhz/Hash-Table-in-C](https://github.com/ztjhz/Hash-Table-in-C): Hash table implementation in C
 - [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
