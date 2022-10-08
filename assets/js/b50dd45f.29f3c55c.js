@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3991],{4747:e=>{e.exports=JSON.parse('{"label":"tokeniser","permalink":"/blog/tags/tokeniser","allTagsPath":"/blog/tags","count":1}')}}]);

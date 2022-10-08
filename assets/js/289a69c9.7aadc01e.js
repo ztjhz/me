@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4632],{7168:e=>{e.exports=JSON.parse('{"label":"pyodide","permalink":"/blog/tags/pyodide","allTagsPath":"/blog/tags","count":1}')}}]);

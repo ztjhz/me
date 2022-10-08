@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3684],{9521:e=>{e.exports=JSON.parse('{"title":"Work","slug":"/category/work","permalink":"/docs/category/work","navigation":{"previous":{"title":"About me","permalink":"/docs/about"},"next":{"title":"Software Engineer @ Reluvate Technologies","permalink":"/docs/work/reluvate"}}}')}}]);
