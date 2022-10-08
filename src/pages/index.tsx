@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
@@ -30,9 +31,13 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Jing Hua's blog"
+      title={`${siteConfig.title}'s Website`}
+      description=" Jing Hua brings ideas to life with code 🌱. She is an exceptional software engineer with lots of work experience under her belt. She contributes to open source and is fast at learning new skills. "
     >
+      <Head>
+        <meta name="image" property="og:image" content="img/preview.png" />
+        <meta name="author" content="Jing Hua" />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
