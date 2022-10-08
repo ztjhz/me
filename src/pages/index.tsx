@@ -36,7 +36,7 @@ export default function Home() {
     >
       <Head>
         <meta name="image" property="og:image" content="img/preview.png" />
-        <meta name="author" content="Jing Hua" />
+        <meta name="author" content="Toh Jing Hua" />
       </Head>
       <HomepageHeader />
       <main>

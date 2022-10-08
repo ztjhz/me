@@ -1,6 +1,7 @@
 ---
 slug: bytevid
 title: ByteVid - Deep Learning Hackathon 1st Place
+description: Say goodbye to long and boring videos! 👋 - MLDA Deep Learning Hackathon 2022 🥇 1st Place
 authors: nixie
 tags:
   [
