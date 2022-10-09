@@ -3,6 +3,7 @@ sidebar_position: 1
 title: About me
 ---
 
+import Star from '@site/src/components/Star';
 import logo from '@site/static/img/nixie.jpg';
 
 <p>
@@ -28,9 +29,10 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): _Generates Graphviz images that can be used directly without a need to host them_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
-- [<img src="https://avatars.githubusercontent.com/u/130493?s=200&v=4" height="20" width="20" />](https://github.com/internetarchive) [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_ever published_
+- [<img src="https://avatars.githubusercontent.com/u/130493?s=200&v=4" height="20" width="20" />](https://github.com/internetarchive) [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
@@ -43,8 +45,8 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Artificial Intelligence**
 
-- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser - 23 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <Star /> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <Star /> TrAVis: Visualise BERT attention in-browser - 23 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
 - [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
 - [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
 - [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
@@ -58,15 +60,16 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Full Stack Web**
 
-- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
+- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <Star /> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
 - [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
-- [work/rec-solar](/docs/work/rec-solar): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A mobile application for optimising solar equipment maintenance
+- [work/rec-solar](/docs/work/rec-solar): <Star /> A mobile application for optimising solar equipment maintenance
 - [ztjhz/memories-web-app](https://github.com/ztjhz/memories-web-app): Allowing users to store their precious memories
 
 **Front End Web**
 
-- [work/reluvate-technologies](https://tjh.sg/reluvate): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A complex and interactive e-learning platform for early childhood education
-- [work/zendodo](https://tjh.sg/zendodo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> An NFT gaming web application built on the WAX blockchain
+- [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): <Star /> Generates Graphviz images that can be used directly without a need to host them
+- [work/reluvate-technologies](https://tjh.sg/reluvate): <Star /> A complex and interactive e-learning platform for early childhood education
+- [work/zendodo](https://tjh.sg/zendodo): <Star /> An NFT gaming web application built on the WAX blockchain
 - [ztjhz/website](https://tohjinghua.com): My personal website
 - [ztjhz/netflix-clone](https://github.com/ztjhz/netflix-clone): A front end clone of netflix
 - [ztjhz/pathfinding-visualiser](https://github.com/ztjhz/pathfinding-visualiser): Visualise pathfinding algorithms in-browser
@@ -81,12 +84,12 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Other**
 
-- [ztjhz/me](https://github.com/ztjhz/me): My personal website
+- [ztjhz/me](https://github.com/ztjhz/me): <Star /> A website about my exciting adventures in the world of coding
 - [ztjhz/Hash-Table-in-C](https://github.com/ztjhz/Hash-Table-in-C): Hash table implementation in C
 - [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
 - [ztjhz/crypto-portfolio](https://github.com/ztjhz/crypto-portfolio): A finance tracker with lots of features
-- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> NTU class schedule generator for calendar
+- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): <Star /> NTU class schedule generator for calendar
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 
