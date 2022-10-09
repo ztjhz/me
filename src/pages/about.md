@@ -122,3 +122,10 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 [![LinkedIn](https://img.shields.io/badge/-Jing_Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjinghua/)](https://www.linkedin.com/in/tohjinghua/)
 [![Twitter](https://img.shields.io/badge/-@nikushii__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikushii_)
 [![GitHub](https://img.shields.io/github/followers/ztjhz?style=social&label=Follow)](https://github.com/ztjhz)
+
+import PaginatorNavLink from '@theme/PaginatorNavLink';
+
+<div style={{display: 'grid', gridTemplateColumns:'1fr 1fr', gap: '16px', justifyContent: 'space-between'}}>
+  <PaginatorNavLink permalink="/docs/interesting-projects" title="Interesting Projects" subLabel={<div>It may pique your interest</div>} />
+  <PaginatorNavLink permalink="/blog" title="Blog" isNext subLabel={<div>My exciting adventures in the world of coding</div>} />
+</div>
