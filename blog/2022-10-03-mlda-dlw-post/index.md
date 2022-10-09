@@ -176,6 +176,10 @@ ByteVid comes with several benefits:
 - Implement a Telegram bot
 - Implement a mobile application
 
+## Hackathon Submission
+
+[Devpost](https://devpost.com/software/bytevid)
+
 ## References
 
 [1] A. Radford, J. W. Kim, T. Xu, G. Brockman, C. McLeavey, and I. Sutskever, “Robust Speech Recognition via Large-Scale Weak Supervision,” 2022.
