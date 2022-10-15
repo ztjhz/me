@@ -22,7 +22,7 @@ Nov 2021 - Jan 2022 (3 months)
 - Improved maintenance efficiency by _25%_, and reduced paper wastage by _15%_
 - Exceeded expectations and received outstanding commendation and monetary award
 
-### 📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 📚 Tech Stack
 
 - PowerApps, PowerFx, PowerAutomate
 

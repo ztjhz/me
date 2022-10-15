@@ -18,7 +18,7 @@ May 2022 - Aug 2022 (4 months)
 
 - Received high praises from CTO and was given a return offer
 
-### 📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 📚 Tech Stack
 
 - TypeScript, React.js, MUI
 

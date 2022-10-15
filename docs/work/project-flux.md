@@ -18,7 +18,7 @@ Dec 2021 (1 month)
 - Reduced page load speed by _70%_ and increased user satisfaction by _31%_
 - _Achieved the highest intern performance rating_
 
-### 📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 📚 Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, Angular 1.7
 - Backend: Python

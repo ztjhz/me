@@ -18,7 +18,7 @@ Duration: Nov 2021 - Jan 2022 (3 months)
 
 - Awarded performance bonus for outstanding performance
 
-### 📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 📚 Tech Stack
 
 - SASS, TypeScript, Next.js (React)
 - Blockchain API
