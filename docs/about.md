@@ -28,7 +28,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser - 28 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser - 33 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): _Generates Graphviz images that can be used directly without a need to host them_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
@@ -43,14 +43,6 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
-**Artificial Intelligence**
-
-- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <Star /> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <Star /> TrAVis: Visualise BERT attention in-browser - 28 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
-- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
-- [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
-- [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
-
 **Open Source**
 
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published!
@@ -58,6 +50,14 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper): Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki): MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.
+
+**Artificial Intelligence**
+
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <Star /> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <Star /> TrAVis: Visualise BERT attention in-browser - 28 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
+- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
+- [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
+- [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
 
 **Full Stack Web**
 
