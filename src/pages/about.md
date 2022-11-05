@@ -27,11 +27,10 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 1st place 🥇_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser - 33 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): _Generates Graphviz images that can be used directly without a need to host them_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
 - [<img src="https://avatars.githubusercontent.com/u/130493?s=200&v=4" height="20" width="20" />](https://github.com/internetarchive) [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
@@ -54,7 +53,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Artificial Intelligence**
 
-- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <Star /> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <Star /> Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 🥇 1st place
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <Star /> TrAVis: Visualise BERT attention in-browser - 28 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
 - [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
 - [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
@@ -91,7 +90,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
 - [ztjhz/crypto-portfolio](https://github.com/ztjhz/crypto-portfolio): A finance tracker with lots of features
-- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): <Star /> NTU class schedule generator for calendar
+- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): NTU class schedule generator for calendar
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 
