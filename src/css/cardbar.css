@@ -1,0 +1,85 @@
+:root {
+  --bar-height: 24px;
+}
+
+.card_bar {
+  position: relative;
+  height: var(--bar-height);
+  width: 100%;
+  display: block;
+
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.dots {
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  background-color: #ff5f57;
+  border-radius: 50%;
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  opacity: 0.7;
+}
+
+.dots::before {
+  content: ' ';
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  border-radius: 50%;
+  position: absolute;
+  left: 16px;
+  background-color: #ffbd2e;
+  top: 0;
+}
+
+.dots::after {
+  content: ' ';
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  border-radius: 50%;
+  position: absolute;
+  left: 32px;
+  background-color: #28ca41;
+  top: 0;
+}
+
+.dots.dots_reversed {
+  left: auto;
+  right: 10px;
+}
+
+.dots.dots_reversed::before {
+  left: auto;
+  right: 16px;
+}
+
+.dots.dots_reversed::after {
+  left: auto;
+  right: 32px;
+}
+
+.text {
+  font-size: 0.4rem;
+  color: palegreen;
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: bold;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  width: 60%;
+  margin-left: 10px;
+
+  height: var(--bar-height);
+  line-height: var(--bar-height);
+}
+.text_center {
+  text-align: center;
+  margin: auto;
+}

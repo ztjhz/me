@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomepageHero from '@site/src/components/HomepageHero';
 
 import styles from './index.module.css';
 import logo from '@site/static/img/nixie.jpg';
@@ -38,8 +39,9 @@ export default function Home() {
         <meta name="image" property="og:image" content="img/preview.png" />
         <meta name="author" content="Toh Jing Hua" />
       </Head>
-      <HomepageHeader />
+      {/* <HomepageHeader /> */}
       <main>
+        <HomepageHero />
         <HomepageFeatures />
       </main>
     </Layout>

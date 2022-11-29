@@ -1,0 +1,70 @@
+.btn {
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
+
+  line-height: 37px;
+  max-width: 130px;
+
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: center;
+}
+.btn:hover {
+  text-decoration: none;
+}
+
+.effect01 {
+  color: var(--ifm-font-color-base);
+  border: 2px solid var(--ifm-color-primary-light);
+  box-shadow: 0px 0px 0px 1px transparent inset;
+  background-color: transparent;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+}
+
+.effect01:hover {
+  background-color: var(--ifm-color-primary-lightest);
+  box-shadow: 0px 0px 0px 4px var(--ifm-color-primary-lightest) inset;
+}
+
+/*btn_text*/
+span {
+  transition: all 0.2s ease-out;
+  z-index: 2;
+}
+
+.effect01:hover span {
+  letter-spacing: 0.13em;
+  color: var(--text-dark);
+}
+
+/*highlight*/
+.effect01::after {
+  background: #fff;
+  border: 0px solid #000;
+  content: '';
+  height: 155px;
+  left: -75px;
+  opacity: 0.8;
+  position: absolute;
+  top: -50px;
+  -webkit-transform: rotate(35deg);
+  transform: rotate(35deg);
+  width: 50px;
+  transition: all 1s cubic-bezier(0.075, 0.82, 0.165, 1); /*easeOutCirc*/
+  z-index: 1;
+}
+
+.effect01:hover::after {
+  background: #fff;
+  border: 20px solid #000;
+  opacity: 0;
+  left: 120%;
+  -webkit-transform: rotate(40deg);
+  transform: rotate(40deg);
+}
