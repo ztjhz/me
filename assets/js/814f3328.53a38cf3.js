@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ByteVid - Deep Learning Hackathon 1st Place","permalink":"/blog/bytevid"},{"title":"TrAVis - Transformer Attention Visualiser","permalink":"/blog/travis"}]}')}}]);
