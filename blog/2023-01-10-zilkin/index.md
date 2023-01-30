@@ -1,10 +1,12 @@
 ---
 slug: zilkin
 title: ZilKin - The Future of Zilliqa Smart Contracts
-description: ZilKin is a Scilla Contracts Deployment Tool that empowers you to deploy your Scilla contracts effortlessly via our a) Contracts Wizard (Interactive Code Generator) or b) Automatic Contract Deployer.
+description: How I played a part in paving the way for a new era of innovation in the world of Zilliqa
 authors: nixie
 tags: [web3, blockchain, react, tailwindcss]
 ---
+
+_My Journey in Paving the Way for a New Era of Innovation in the World of Zilliqa_
 
 ![zilkin](./zilkin-landing.png)
 
