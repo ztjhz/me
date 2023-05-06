@@ -27,6 +27,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): _An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 1st place 🥇_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser - 36 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): _Generates Graphviz images that can be used directly without a need to host them_
@@ -44,6 +45,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Open Source**
 
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): <Star /> _An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)_
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published!
 - [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo): A community-owned language-learning platform
@@ -133,4 +135,5 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 [![LinkedIn](https://img.shields.io/badge/-Jing_Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjinghua/)](https://www.linkedin.com/in/tohjinghua/)
 [![Twitter](https://img.shields.io/badge/-@nikushii__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikushii_)
+[![Email](https://img.shields.io/badge/-mail@dev.tjh.sg-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@dev.tjh.sg)
 [![GitHub](https://img.shields.io/github/followers/ztjhz?style=social&label=Follow)](https://github.com/ztjhz)
