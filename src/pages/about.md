@@ -17,7 +17,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - 📚 Business and Computer Science sophomore (first class honours + dean's list)
 - 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es)
 - 🌐 Full-stack web (React + Django/NodeJS + SQL)
-- 🧠 Deep Learning + NLP + CV
+- 🧠 Deep Learning + NLP + CV + Multimodal
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
 - 💜 Like Python, JavaScript, and React
@@ -29,10 +29,8 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): _An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 1st place 🥇_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser - 36 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): _Generates Graphviz images that can be used directly without a need to host them_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
-- [<img src="https://avatars.githubusercontent.com/u/130493?s=200&v=4" height="20" width="20" />](https://github.com/internetarchive) [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
@@ -55,10 +53,10 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Artificial Intelligence**
 
-- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <Star /> Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <Star /> TrAVis: Visualise BERT attention in-browser - 36 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): TrAVis: Visualise BERT attention in-browser
 - [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
-- [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
+- [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): A lightweight word-piece tokenizer for Natural Language Processing
 - [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
 - [ztjhz/NoMyocardial](https://github.com/ztjhz/NoMyocardial): Say NO to Myocardial Infarcation! (Classification)
 - [ztjhz/VidAssembly](https://github.com/ztjhz/VidAssembly): A version of ByteVid that is powered by AssemblyAI
@@ -70,16 +68,16 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Full Stack Web**
 
-- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <Star /> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
+- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
 - [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
-- [work/rec-solar](/docs/work/rec-solar): <Star /> A mobile application for optimising solar equipment maintenance
+- [work/rec-solar](/docs/work/rec-solar): A mobile application for optimising solar equipment maintenance
 - [ztjhz/memories-web-app](https://github.com/ztjhz/memories-web-app): Allowing users to store their precious memories
 
 **Front End Web**
 
-- [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): <Star /> Generates Graphviz images that can be used directly without a need to host them
-- [work/reluvate-technologies](https://tjh.sg/reluvate): <Star /> A complex and interactive e-learning platform for early childhood education
-- [work/zendodo](https://tjh.sg/zendodo): <Star /> An NFT gaming web application built on the WAX blockchain
+- [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz images that can be used directly without a need to host them
+- [work/reluvate-technologies](https://tjh.sg/reluvate): A complex and interactive e-learning platform for early childhood education
+- [work/zendodo](https://tjh.sg/zendodo): An NFT gaming web application built on the WAX blockchain
 - [ztjhz/website](https://tohjinghua.com): My personal website
 - [ztjhz/netflix-clone](https://github.com/ztjhz/netflix-clone): A front end clone of netflix
 - [ztjhz/pathfinding-visualiser](https://github.com/ztjhz/pathfinding-visualiser): Visualise pathfinding algorithms in-browser
@@ -94,7 +92,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Other**
 
-- [ztjhz/me](https://github.com/ztjhz/me): <Star /> A website about my exciting adventures in the world of coding
+- [ztjhz/me](https://github.com/ztjhz/me): A website about my exciting adventures in the world of coding
 - [ztjhz/Hash-Table-in-C](https://github.com/ztjhz/Hash-Table-in-C): Hash table implementation in C
 - [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
@@ -121,6 +119,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![Jax](https://img.shields.io/badge/JAX-%23EE4C2C.svg?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F06032.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Styled Componenets](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
