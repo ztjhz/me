@@ -4,10 +4,24 @@
         <title>Jing Hua Blog</title>
         <link>https://me.tjh.sg/blog</link>
         <description>Jing Hua Blog</description>
-        <lastBuildDate>Tue, 10 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[BetterChatGPT - An amazing UI for OpenAI's ChatGPT]]></title>
+            <link>https://me.tjh.sg/blog/betterchatgpt</link>
+            <guid>betterchatgpt</guid>
+            <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Better ChatGPT is the ultimate destination for anyone who wants to experience the limitless power of conversational AI. With no limits and completely free to use for all, our app harnesses the full potential of OpenAI's ChatGPT API to offer you an unparalleled chatbot experience.]]></description>
+            <content:encoded><![CDATA[<p>See BetterChatGPT here: <a href="https://github.com/ztjhz/BetterChatGPT" target="_blank" rel="noopener noreferrer">https://github.com/ztjhz/BetterChatGPT</a></p>]]></content:encoded>
+            <category>chatgpt</category>
+            <category>nlp</category>
+            <category>deeplearning</category>
+            <category>ai</category>
+            <category>react</category>
+            <category>tailwindcss</category>
+        </item>
         <item>
             <title><![CDATA[ZilKin - The Future of Zilliqa Smart Contracts]]></title>
             <link>https://me.tjh.sg/blog/zilkin</link>
