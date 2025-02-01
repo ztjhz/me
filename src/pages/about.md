@@ -14,49 +14,66 @@ import logo from '@site/static/img/nixie.jpg';
 
 I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
-- 📚 Business and Computer Science sophomore (first class honours + dean's list)
-- 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es)
-- 🌐 Full-stack web (React + Django/NodeJS + SQL)
-- 🧠 Deep Learning + NLP + CV + Multimodal
+- 📚 Business and Computer Science senior
+- 💬 English(en) 中文(zh) 日本語(ja) ภาษาไทย(th) Svenska(sv)
+- 🧠 Research: NLP + Multimodal
+- 🌐 Full-stack web: React + Python/NodeJS
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
-- 💜 Like Python, JavaScript, and React
-- 👩‍💻 4 software engineer internship experience
+- 💜 Like Python, TypeScript, and React
+- 👩‍💻 6 internship experience
 - 🏆 2x hackathon champion + 1x most innovative
-- 😇 Volunteer frontend web developer at TransgenderSG
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): _An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): _Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!_
+- [<img src="https://avatars.githubusercontent.com/u/128829376?s=200&v=4" height="20" width="20" />](https://github.com/xlang-ai) [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld): _OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments_
+- [<img src="https://avatars.githubusercontent.com/u/128829376?s=200&v=4" height="20" width="20" />](https://github.com/xlang-ai) [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents): _OpenAgents: An Open Platform for Language Agents in the Wild_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/t5-jax](https://github.com/ztjhz/t5-jax): _JAX implementation of the T5 model and a Comparative Study of T5 Model Variants for French-English Translation_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 1st place 🥇_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
+- [<img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="20" width="20" />](https://github.com/huggingface) [huggingface/transformers](https://github.com/huggingface/transformers): _Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX._
+
+## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Research Experience
+
+- [Aug 2023 - May 2024](https://www.ntu.edu.sg/): Student Researcher @ NTU
+- [Apr 2023 - March 2024](https://xlang.ai): Research Assistant @ XLang Lab
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
-- [May 2022 - Aug 2022](/docs/work/reluvate): Software Engineer @ Reluvate Technologies
-- [Nov 2021 - Jan 2022](/docs/work/zendodo): Blockchain Front-End Web Developer Intern @ Zendodo
-- [Nov 2021 - Jan 2022](/docs/work/rec-solar): Mobile Application Developer @ REC Solar
-- [Dec 2021 - Dec 2021](/docs/work/project-flux): Software Developer (Contract) @ Project Flux
+- [May 2024 - Aug 2024](https://about.google/): Software Engineering Intern @ Google
+- [May 2023 - Aug 2023](https://www.linkedin.com/company/knightsgg/): AI Engineer Intern @ Pittsburgh Knights
+- [May 2022 - Aug 2022](https://me.tjh.sg/docs/work/reluvate): Software Engineer Intern @ Reluvate Technologies
+- [Nov 2021 - Jan 2022](https://me.tjh.sg/docs/work/zendodo): Blockchain Front-End Web Developer Intern @ Zendodo
+- [Nov 2021 - Jan 2022](https://me.tjh.sg/docs/work/rec-solar): Mobile Application Developer @ REC Solar
+- [Dec 2021 - Dec 2021](https://me.tjh.sg/docs/work/project-flux): Software Developer (Contract) @ Project Flux
+
+## Publications
+
+- **[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**: Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, **Toh Jing Hua**, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2404.07972)] | [[code](https://github.com/xlang-ai/OSWorld)] | [[website](https://os-world.github.io/)]
+- **[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild**: Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, **Toh Jing Hua**, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2310.10634)] | [[code](https://github.com/xlang-ai/OpenAgents)]
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
 **Open Source**
 
-- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): <Star /> _An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)_
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> _Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!_
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published!
-- [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX
+- [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo): A community-owned language-learning platform
 - [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper): Using OpenAI's Whisper to automatically generate YouTube subtitles
-- [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki): MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.
 
 **Artificial Intelligence**
 
-- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): TrAVis: Visualise BERT attention in-browser
-- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
+- [ztjhz/t5-jax](https://github.com/ztjhz/t5-jax): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> JAX implementation of the T5 model and a Comparative Study of T5 Model Variants for French-English Translation
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser
+- [ztjhz/miniLM](https://github.com/ztjhz/miniLM): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Small Model Is All You Need - NTU SC4001 Neural Network & Deep Learning Project
+- [xJQx/sc4000-horse-health-prediction](https://github.com/xJQx/sc4000-horse-health-prediction): Kaggle Challenge - Horse Health Prediction (Top 6%) (NTU SC4000 - Machine Learning)
+- [xJQx/sc4002-nlp-sentiment-classification](https://github.com/xJQx/sc4002-nlp-sentiment-classification): Sentiment Classification (NTU SC4002 - Natural Language Processing)
 - [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): A lightweight word-piece tokenizer for Natural Language Processing
+- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
 - [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
 - [ztjhz/NoMyocardial](https://github.com/ztjhz/NoMyocardial): Say NO to Myocardial Infarcation! (Classification)
 - [ztjhz/VidAssembly](https://github.com/ztjhz/VidAssembly): A version of ByteVid that is powered by AssemblyAI
@@ -68,13 +85,17 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Full Stack Web**
 
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [xJQx/sc2006-feeditforward](https://github.com/xJQx/sc2006-feeditforward): FeedItForward - Connecting Hawkers to Needy Families (NTU SC2006 Software Engineering Project)
 - [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
 - [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
-- [work/rec-solar](/docs/work/rec-solar): A mobile application for optimising solar equipment maintenance
+- [work/rec-solar](https://me.tjh.sg/docs/work/rec-solar): A mobile application for optimising solar equipment maintenance
 - [ztjhz/memories-web-app](https://github.com/ztjhz/memories-web-app): Allowing users to store their precious memories
 
 **Front End Web**
 
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): TrAVis: Visualise BERT attention in-browser
 - [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz images that can be used directly without a need to host them
 - [work/reluvate-technologies](https://tjh.sg/reluvate): A complex and interactive e-learning platform for early childhood education
 - [work/zendodo](https://tjh.sg/zendodo): An NFT gaming web application built on the WAX blockchain
@@ -83,8 +104,9 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/pathfinding-visualiser](https://github.com/ztjhz/pathfinding-visualiser): Visualise pathfinding algorithms in-browser
 - [ztjhz/sorting-visualiser](https://github.com/ztjhz/sorting-visualiser): Visualise sorting algorithms in-browser
 
-**Back End Web**
+**Back End**
 
+- [xJQx/sc2002-fypms](https://github.com/xJQx/sc2002-fypms): Java Based Project Management System (NTU SC2002 Object Oriented Programming Project)
 - [ztjhz/django-mail-server](https://github.com/ztjhz/django-mail-server): A mail server
 - [ztjhz/django-ecommerce-server](https://github.com/ztjhz/django-ecommerce-server): An ecommerce server
 - [ztjhz/django-wiki-server](https://github.com/ztjhz/django-wiki-server): A wiki server
@@ -99,7 +121,16 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/crypto-portfolio](https://github.com/ztjhz/crypto-portfolio): A finance tracker with lots of features
 - [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): NTU class schedule generator for calendar
 
-## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
+**Academic**
+
+- [SC1015 Data Science & Artificial Intelligence](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
+- [SC2002 Object Orientated Programming](https://github.com/xJQx/sc2002-fypms): Java Based Project Management System
+- [SC2006 Software Engineering Project](https://github.com/xJQx/sc2006-feeditforward): FeedItForward - Connecting Hawkers to Needy Families
+- [SC4000 Machine Learning](https://github.com/xJQx/sc4000-horse-health-prediction): Kaggle Challenge - Horse Health Prediction (Top 6%)
+- [SC4001 Neural Network & Deep Learning Project](https://github.com/ztjhz/miniLM): Small Model Is All You Need
+- [SC4002 Natural Language Processing](https://github.com/xJQx/sc4002-nlp-sentiment-classification): Sentiment Classification
+
+## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
@@ -119,7 +150,6 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![Jax](https://img.shields.io/badge/JAX-%23EE4C2C.svg?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F06032.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Styled Componenets](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)

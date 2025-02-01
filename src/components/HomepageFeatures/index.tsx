@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
           </a>
         </div>
         <div>
-          Twitter:{' '}
+          X:{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
